@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>Reserve</div>
       </nav>
-      <img className='z-10 h-dvh' src="room-1.webp" alt="Room"/>
+      <img className='z-10 h-dvh w-max' src="room-1.webp" alt="Room"/>
     </>
   )
 }
